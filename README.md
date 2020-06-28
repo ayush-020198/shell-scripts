@@ -15,7 +15,7 @@ Push to the branch (git push origin improve-feature)\
 Create a Pull Request
 
 ## Feature Request
-If you'd like to request a new function, free to do so by opening an issue [here](https://github.com/ayush-020198/shell-scripts/issues/new).\
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ayush-020198/shell-scripts/issues/new).\
 Please include sample queries and their corresponding results.
 
 ## Contributing
